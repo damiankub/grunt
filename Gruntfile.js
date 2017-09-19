@@ -20,7 +20,7 @@ module.exports = function(grunt) {
             spawn: false,
       	  },
     	}
-	}
+	},
 
   	imagemin: {
   		dynamic: {
@@ -31,7 +31,7 @@ module.exports = function(grunt) {
   				dest: 'images/build/'
   			}]
   		}
-  	}
+  	},
 
 
   });
